@@ -1,0 +1,4 @@
+Place your mascot image in this folder named: mascot.jpeg
+
+This file is referenced as /mascot.jpeg throughout the app.
+Simply copy your bunny mascot image here with that exact filename.
